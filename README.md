@@ -6,8 +6,8 @@
 
 ## About Me :
 
-- 🌱 I am currently learning **SQL**, **Python** and **Cybersecurity**.
-- 💬 Ask me about HTML, SQL, Javascript...
+- 🌱 I am currently learning **SQL**, and **Cybersecurity**.
+- 💬 Ask me about HTML, SQL, ...
 - 🎓 Studies [INS La Ferreria](https://agora.xtec.cat/ieslaferreria/))
 - 📫 How to contact me *j17122004@proton.me* **or https://instagram.com/j2k.klk (faster)**
 - ⚡ Fun fact: *I tried to create a Chatbot robot and have it be connected to your questions. If you insult it, it will buy nasty stuff.*
