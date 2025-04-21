@@ -9,7 +9,7 @@
 - 🌱 I am currently learning **SQL**, and **Cybersecurity**.
 - 💬 Ask me about HTML, SQL, ...
 - 🎓 Studient [INS La Ferreria](https://agora.xtec.cat/ieslaferreria/)
-- 📫 How to contact me *j17122004@proton.me* **or https://instagram.com/empaquetaoo (faster)**
+- 📫 How to contact me *j17122004@proton.me* **or https://instagram.com/j2k.klk**
 - ⚡ Fun fact: *I tried to create a Chatbot robot and have it be connected to your questions. If you insult it, it will buy nasty stuff.*
 
 <br>
@@ -18,7 +18,7 @@
 
 <br>
 
-[![@empaquetaoo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@empaquetaoo")](https://www.instagram.com/empaquetaoo) 
+[![@empaquetaoo](https://img.icons8.com/fluency/48/000000/instagram-new.png "@j2k.klk")](https://www.instagram.com/j2k.klk) 
 [![@j20k_](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@j20k_")](https://twitter.com/j20k_) 
 
 <br>
