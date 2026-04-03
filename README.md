@@ -9,7 +9,7 @@
 - 🌱 I am currently learning **SQL**, and **Cybersecurity**.
 - 💬 Ask me about HTML, SQL, ...
 - 🎓 Studient [INS La Ferreria](https://agora.xtec.cat/ieslaferreria/)
-- 📫 How to contact me *j17122004@proton.me* **or https://instagram.com/j2k.klk**
+- 📫 How to contact me *jose@agencyblue.es* **or https://instagram.com/j2k.klk**
 - 💬 Owner [AgencyBlue](mailto:hola@agencyblue.es)
 - ⚡ Fun fact: *I tried to create a Chatbot robot and have it be connected to your questions. If you insult it, it will buy nasty stuff.*
 
